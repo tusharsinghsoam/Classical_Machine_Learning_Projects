@@ -6,6 +6,6 @@ Dataset Used -> **Fake News Identification Competiton** on **[Kaggle](https://ww
 
 Algorithms used -> **Multiple (e.g. Logistic Regression, Multionomial Naive Bayes, SVM, KNN, RF etc.)**
 
-## Acknowledgement
+## Acknowledgment
 
 Kaggle Kernel by [PADMAVATHI D](https://www.kaggle.com/code/aishwarya2210/prediction-of-fake-news-model-comparison?kernelSessionId=88008919)
